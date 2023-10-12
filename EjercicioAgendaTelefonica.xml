@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agendatelefonos>
+<agenda_telefonos>
+    <contacto>
+        <persona>
+            <nombre>María</nombre>
+            <apellido1>Fernández</apellido1>
+            <apellido2>Lorenzo</apellido2>
+        </persona>
+        <direccion>
+            <calle>Venezuela</calle>
+            <numero>25</numero>
+            <portal>2</portal>
+            <piso>1B</piso>
+        </direccion>
+        <telefonos>
+            <telefono tipo="móvil">652855362</telefono>
+            <telefono tipo= "fijo">986334158</telefono>
+        </telefonos>
+    </contacto>
+
+    <contacto>
+        <persona>
+            <nombre>Aurora</nombre>
+            <apellido1>Gallego</apellido1>
+            <apellido2>Martin</apellido2>
+        </persona>
+        <direccion>
+            <calle>Ramón Nieto</calle>
+            <numero>10</numero>
+            <portal>6</portal>
+            <piso>3A</piso>
+        </direccion>
+        <telefonos>
+            <telefono tipo="móvil">651455746</telefono>
+            <telefono tipo= "fijo">986332366</telefono>
+        </telefonos>
+    </contacto>
+</agenda_telefonos>

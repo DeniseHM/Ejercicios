@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compras>
+    <compra>
+        <fecha>26/04/2023</fecha>
+        <título>Chocolate</título>
+        <categorías>
+            <categoría>Alimentación</categoría>    
+        </categorías>
+        <precio>1.50</precio>
+    </compra>
+
+    <compra>
+        <fecha>29/04/2023</fecha>
+        <título>Nestea</título>
+        <categorías>
+            <categoría>Bebida</categoría>
+            <categoría>Alimentación</categoría>    
+        </categorías>
+        <precio>2.70</precio>
+    </compra>
+    
+    <compra>
+        <fecha>02/05/2023</fecha>
+        <título>Mopa</título>
+        <categorías>
+            <categoría>Limpieza</categoría>
+            <categoría>Polvo</categoría>    
+        </categorías>
+        <precio>0.75</precio>
+    </compra>
+    
+</compras>

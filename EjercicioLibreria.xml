@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libro>
+<Librería>
+    <libro categoría= "romance" tipo= "tapa dura">
+        <título>30 sunsets para enamorarte</título>
+        <autor>Mercedes Ron</autor>
+        <año>2023</año>
+        <precio>14.99</precio>
+    </libro>
+
+    <libro categoría= "ficción" tipo= "ebook">
+        <título idioma= "inglés">A Court of Thorns and Roses</título>
+        <autor>Sarah J.Mass</autor>
+        <año>2015</año>
+        <precio>18</precio>
+    </libro>
+</Librería>
